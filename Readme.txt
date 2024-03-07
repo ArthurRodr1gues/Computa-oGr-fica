@@ -1,0 +1,1 @@
+A ideia inicial do projeto é criar um jogo baseado no Flappy Bird utilizando a biblioteca python py.games
